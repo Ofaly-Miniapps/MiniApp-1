@@ -1,0 +1,27 @@
+﻿[
+  {
+    "id": 1,
+    "name": "English",
+    "image": "11.png"
+  },
+  {
+    "id": 2,
+    "name": "Francais",
+    "image": "12.png"
+  },
+  {
+    "id": 3,
+    "name": "Arabic",
+    "image": "13.png"
+  },
+  {
+    "id": 4,
+    "name": "Russia",
+    "image": "14.png"
+  },
+  {
+    "id": 5,
+    "name": "Chinese",
+    "image": "15.png"
+  }
+]
